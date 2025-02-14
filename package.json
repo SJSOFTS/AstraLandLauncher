@@ -1,13 +1,13 @@
 {
-  "name": "mrslauncher",
+  "name": "astraLandlauncher",
   "version": "3.0.3",
-  "productName": "MRS Launcher",
+  "productName": "Astra Land Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/), peunsu (https://github.com/peunsu)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/), SJSOFT (https://github.com/SJSOFTS/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/peunsu/MRSLauncher",
+  "homepage": "https://github.com/SJSOFTS/AstraLandLauncher",
   "bugs": {
-    "url": "https://github.com/peunsu/MRSLauncher/issues"
+    "url": "https://github.com/SJSOFTS/AstraLandLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peunsu/MRSLauncher.git"
+    "url": "git+https://github.com/SJSOFTS/AstraLandLauncher.git"
   }
 }
